@@ -227,12 +227,12 @@ img {
 
 .hero-image {
   position: relative;
-  height: 450px;
+  height: 600px;
 }
 
 .hero-image img {
   height: 100%;
-  border-radius: 180px 180px 15px 15px;
+  border-radius: 70px 70px 15px 15px;
   box-shadow: var(--shadow);
 }
 

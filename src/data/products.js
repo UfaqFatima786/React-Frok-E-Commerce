@@ -11,7 +11,7 @@ const products = [
     badge: "Bestseller",
     rating: 4.9,
     description: "A beautiful layered tulle party frock with delicate detailing, perfect for birthdays and special occasions.",
-    image: "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=700"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRZ1yeLXb0qPBgaOqDQQcTg5QwFrMTJSyydnddrDVtw&s"
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const products = [
     badge: "New Arrival",
     rating: 4.8,
     description: "A charming floral frock designed for comfortable everyday styling.",
-    image: "https://images.unsplash.com/photo-1503919005314-30d93d07d823?w=700"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3D1WIxyhKluJlMXZxROIQTskFO3ZpHvSyVLWWywqm1A&s=10"
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ const products = [
     badge: "Popular",
     rating: 4.9,
     description: "A dreamy lavender occasion dress with a soft, elegant silhouette.",
-    image: "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=700"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG40w2VsD5cbfuuy4dMazO--0I6VIgSoDewOQ1Fdwn8Abk5xXwJJIzinfa&s=10"
   },
   {
     id: 4,
@@ -50,7 +50,7 @@ const products = [
     badge: "Trending",
     rating: 5.0,
     description: "An elegant princess gown for making birthday celebrations unforgettable.",
-    image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=700"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH15oYTNtUCO2x2zeB2vNyvqeQ2NAWi9oto05ZPisoqA&s"
   },
   {
     id: 5,
@@ -63,7 +63,7 @@ const products = [
     badge: "Sale",
     rating: 4.7,
     description: "A sweet rose-pink frock with a lovely party-ready design.",
-    image: "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=700"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNto7DaPZFnMgH0YM6DwqT9-zU6OYuhBztM9M7EjC-Dw&s=10"
   },
   {
     id: 6,
@@ -76,7 +76,267 @@ const products = [
     badge: "Premium",
     rating: 4.9,
     description: "A graceful white occasion frock for weddings and memorable family events.",
-    image: "https://images.unsplash.com/photo-1503919005314-30d93d07d823?w=700"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrNFd3dJob1alr1skx2T82Ak2eCGuCdfkl2sYLQtvcQ&s=10"
+  },
+  {
+    id: 7,
+    name: "Blush Pink Tulle Frock",
+    category: "Party Wear",
+    price: 4200,
+    oldPrice: 5000,
+    size: ["2-3Y", "3-4Y", "4-5Y", "5-6Y"],
+    color: "Blush Pink",
+    badge: "New Arrival",
+    rating: 4.8,
+    description: "A soft blush tulle frock with a twirl-worthy skirt for parties and celebrations.",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWaOz8P59JBxGLIAMnBRYbo8RrHs3TgqaFfoiwU9qyg&s"
+  },
+  {
+    id: 8,
+    name: "Red Dream Party Dress",
+    category: "Party Wear",
+    price: 4900,
+    oldPrice: 5700,
+    size: ["3-4Y", "4-5Y", "5-6Y", "6-7Y"],
+    color: "Lavender",
+    badge: "Popular",
+    rating: 4.9,
+    description: "A dreamy lavender party dress with a floaty skirt and a comfortable fit.",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5dhodaf_RxX8Glsorn6HvqxC3odrrG3QfOcSuOkgpA&s"
+  },
+  {
+    id: 9,
+    name: "Little Daisy Summer Frock",
+    category: "Casual Wear",
+    price: 2600,
+    oldPrice: 3200,
+    size: ["2-3Y", "3-4Y", "4-5Y"],
+    color: "White",
+    badge: "Everyday Favorite",
+    rating: 4.7,
+    description: "A light and cheerful floral frock made for sunny days and family outings.",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvojPyDhcBI_fWcJ3JvEVssp69nkgYc_-aq0rssJLSQ&s"
+  },
+  {
+    id: 10,
+    name: "Ruby Red Birthday Frock",
+    category: "Birthday Wear",
+    price: 5600,
+    oldPrice: 6400,
+    size: ["2-3Y", "3-4Y", "4-5Y", "5-6Y"],
+    color: "Ruby Red",
+    badge: "Bestseller",
+    rating: 5.0,
+    description: "A bright birthday frock with a festive look for a day full of happy memories.",
+    image: "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 11,
+    name: "Pearl White Wedding Frock",
+    category: "Wedding Wear",
+    price: 6900,
+    oldPrice: 7800,
+    size: ["3-4Y", "4-5Y", "5-6Y", "6-7Y"],
+    color: "Pearl White",
+    badge: "Premium",
+    rating: 4.9,
+    description: "An elegant pearl-white frock with a graceful silhouette for weddings and formal events.",
+    image: "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 12,
+    name: "Peach Blossom Party Frock",
+    category: "Party Wear",
+    price: 3900,
+    oldPrice: 4700,
+    size: ["2-3Y", "3-4Y", "4-5Y", "5-6Y"],
+    color: "Peach",
+    badge: "Sale",
+    rating: 4.8,
+    description: "A sweet peach-colored frock with delicate floral charm for little celebrations.",
+    image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 13,
+    name: "Sky Blue Picnic Dress",
+    category: "Casual Wear",
+    price: 2500,
+    oldPrice: 3000,
+    size: ["2-3Y", "3-4Y", "4-5Y"],
+    color: "Sky Blue",
+    badge: "Comfort Pick",
+    rating: 4.6,
+    description: "An easy-to-wear sky-blue dress for picnics, playdates, and everyday adventures.",
+    image: "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 14,
+    name: "Golden Star Birthday Gown",
+    category: "Birthday Wear",
+    price: 6200,
+    oldPrice: 7100,
+    size: ["3-4Y", "4-5Y", "5-6Y", "6-7Y"],
+    color: "Gold",
+    badge: "Trending",
+    rating: 4.9,
+    description: "A golden party gown with a magical look for birthdays and special milestones.",
+    image: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 15,
+    name: "Rose Garden Floral Frock",
+    category: "Casual Wear",
+    price: 2900,
+    oldPrice: 3500,
+    size: ["2-3Y", "3-4Y", "4-5Y", "5-6Y"],
+    color: "Rose Pink",
+    badge: "New Arrival",
+    rating: 4.7,
+    description: "A pretty rose-print frock with a relaxed fit for comfortable all-day wear.",
+    image: "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 16,
+    name: "Mint Candy Party Dress",
+    category: "Party Wear",
+    price: 4300,
+    oldPrice: 5100,
+    size: ["3-4Y", "4-5Y", "5-6Y"],
+    color: "Mint Green",
+    badge: "Popular",
+    rating: 4.8,
+    description: "A fresh mint-green dress with a lovely party-ready shape and soft feel.",
+    image: "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 17,
+    name: "Royal Blue Celebration Frock",
+    category: "Birthday Wear",
+    price: 5400,
+    oldPrice: 6200,
+    size: ["2-3Y", "3-4Y", "4-5Y", "5-6Y"],
+    color: "Royal Blue",
+    badge: "Bestseller",
+    rating: 4.9,
+    description: "A bright royal-blue frock designed to stand out at birthdays and family celebrations.",
+    image: "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 18,
+    name: "Buttercup Yellow Day Frock",
+    category: "Casual Wear",
+    price: 2700,
+    oldPrice: 3300,
+    size: ["2-3Y", "3-4Y", "4-5Y"],
+    color: "Yellow",
+    badge: "Sunny Style",
+    rating: 4.7,
+    description: "A cheerful yellow frock for playtime, sunny walks, and relaxed weekends.",
+    image: "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 19,
+    name: "Cherry Blossom Wedding Dress",
+    category: "Wedding Wear",
+    price: 7200,
+    oldPrice: 8200,
+    size: ["3-4Y", "4-5Y", "5-6Y", "6-7Y"],
+    color: "Blush",
+    badge: "Premium",
+    rating: 5.0,
+    description: "A graceful blush occasion dress for weddings, Eid gatherings, and family portraits.",
+    image: "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 20,
+    name: "Lilac Butterfly Party Frock",
+    category: "Party Wear",
+    price: 4500,
+    oldPrice: 5300,
+    size: ["2-3Y", "3-4Y", "4-5Y", "5-6Y"],
+    color: "Lilac",
+    badge: "New Arrival",
+    rating: 4.8,
+    description: "A lilac party frock with a playful, twirl-friendly silhouette for little dreamers.",
+    image: "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 21,
+    name: "Ivory Lace Angel Dress",
+    category: "Wedding Wear",
+    price: 6800,
+    oldPrice: 7700,
+    size: ["3-4Y", "4-5Y", "5-6Y"],
+    color: "Ivory",
+    badge: "Elegant Pick",
+    rating: 4.9,
+    description: "A lovely ivory dress with a delicate look for wedding ceremonies and formal occasions.",
+    image: "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 22,
+    name: "Coral Sunset Birthday Dress",
+    category: "Birthday Wear",
+    price: 5100,
+    oldPrice: 5900,
+    size: ["2-3Y", "3-4Y", "4-5Y", "5-6Y"],
+    color: "Coral",
+    badge: "Trending",
+    rating: 4.8,
+    description: "A vibrant coral dress for birthday parties, cake-cutting, and picture-perfect moments.",
+    image: "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 23,
+    name: "Ocean Breeze Everyday Frock",
+    category: "Casual Wear",
+    price: 2400,
+    oldPrice: 2900,
+    size: ["2-3Y", "3-4Y", "4-5Y", "5-6Y"],
+    color: "Blue",
+    badge: "Everyday Favorite",
+    rating: 4.6,
+    description: "A breezy blue frock that keeps little ones comfortable through busy days.",
+    image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 24,
+    name: "Ruby Rose Festive Gown",
+    category: "Wedding Wear",
+    price: 7500,
+    oldPrice: 8500,
+    size: ["3-4Y", "4-5Y", "5-6Y", "6-7Y"],
+    color: "Ruby",
+    badge: "Premium",
+    rating: 5.0,
+    description: "A rich ruby occasion gown for weddings, festive dinners, and cherished family events.",
+    image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=700&q=80&sat=-10"
+  },
+  {
+    id: 25,
+    name: "Candy Pink Party Frock",
+    category: "Party Wear",
+    price: 4100,
+    oldPrice: 4900,
+    size: ["2-3Y", "3-4Y", "4-5Y", "5-6Y"],
+    color: "Candy Pink",
+    badge: "Sale",
+    rating: 4.7,
+    description: "A lovely candy-pink frock for party days, playdates, and everything in between.",
+    image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    id: 26,
+    name: "Snowflake Winter Party Dress",
+    category: "Party Wear",
+    price: 4700,
+    oldPrice: 5500,
+    size: ["3-4Y", "4-5Y", "5-6Y", "6-7Y"],
+    color: "White",
+    badge: "New Arrival",
+    rating: 4.8,
+    description: "A sweet winter-white party dress for family get-togethers and festive celebrations.",
+    image: "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=700&q=80&sat=-25"
   }
 ];
 

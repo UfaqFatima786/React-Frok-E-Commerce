@@ -62,7 +62,7 @@ export default function Home() {
 
         <div className="hero-image">
           <img
-            src="https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=900"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweCfRy-RsD02SI01aYLtfrOiryHEF9frGtPw741SrplO9KVrdzdDK29Vf&s=10"
             alt="Little Princess fashion collection"
           />
           <div className="floating-card">
