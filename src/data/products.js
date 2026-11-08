@@ -128,7 +128,7 @@ const products = [
     badge: "Bestseller",
     rating: 5.0,
     description: "A bright birthday frock with a festive look for a day full of happy memories.",
-    image: "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInECpF6qzRVUZcJlvUyVqDud68dHsy3U2I5ZyT10FGLI-VrbNZTD2ySQ&s=10"
   },
   {
     id: 11,
@@ -141,7 +141,7 @@ const products = [
     badge: "Premium",
     rating: 4.9,
     description: "An elegant pearl-white frock with a graceful silhouette for weddings and formal events.",
-    image: "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhHu7COChGefJp-S_Bda_syf4zCBeaPHHNDaU54GXoA&s=10"
   },
   {
     id: 12,
@@ -154,7 +154,7 @@ const products = [
     badge: "Sale",
     rating: 4.8,
     description: "A sweet peach-colored frock with delicate floral charm for little celebrations.",
-    image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1wlUblUFha6pP09hZw-_Sl7cn3CHOusUjfTkASovteZD1RTUIT4yhwPj&s=10"
   },
   {
     id: 13,
