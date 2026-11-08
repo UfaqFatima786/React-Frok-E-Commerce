@@ -8,17 +8,17 @@ const categories = [
   {
     name: "Party Wear",
     subtitle: "For special celebrations",
-    image: "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=600"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz7UDLo__ANzfDGbE24ywskRX_heQEeTUZMfSaisQg1g&s=10"
   },
   {
     name: "Casual Wear",
     subtitle: "Comfort meets style",
-    image: "https://images.unsplash.com/photo-1503919005314-30d93d07d823?w=600"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzrW-G31QS2XjMdahEEEkU62Txq708fWDu6n-QI1J5Fg&s=10"
   },
   {
     name: "Birthday Wear",
     subtitle: "Make her day magical",
-    image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=600"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqUbIasb66PBiph0GcwnSe-_tMvsMdA5m6N5tb3_9AA&s=10"
   }
 ];
 
@@ -137,7 +137,7 @@ export default function Home() {
             Discover More <ArrowRight size={18} />
           </Link>
         </div>
-        <div className="promo-decoration">👑</div>
+        {/* <div className="promo-decoration">👑</div> */}
       </section>
 
       <section className="newsletter" id="contact">

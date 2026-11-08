@@ -167,7 +167,7 @@ const products = [
     badge: "Comfort Pick",
     rating: 4.6,
     description: "An easy-to-wear sky-blue dress for picnics, playdates, and everyday adventures.",
-    image: "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6x4O31_133BuIUV5-S54Tcqwr-nedO6jr1pBwi0Sfw&s=10"
   },
   {
     id: 14,
@@ -180,7 +180,7 @@ const products = [
     badge: "Trending",
     rating: 4.9,
     description: "A golden party gown with a magical look for birthdays and special milestones.",
-    image: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS3zTFzik0Cpetu6Qi7YaYDZCHSlJEuwlh6o1aJ2RUV7RpdcxP6H12sys&s=10"
   },
   {
     id: 15,
@@ -193,7 +193,7 @@ const products = [
     badge: "New Arrival",
     rating: 4.7,
     description: "A pretty rose-print frock with a relaxed fit for comfortable all-day wear.",
-    image: "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5UaOY8zlqojHFo1szfNru_C7fyuNi585RaAbZF6bgPA&s"
   },
   {
     id: 16,
@@ -206,7 +206,7 @@ const products = [
     badge: "Popular",
     rating: 4.8,
     description: "A fresh mint-green dress with a lovely party-ready shape and soft feel.",
-    image: "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCevuyP__UtCNZr0Wx_7kpS2ZUfTj7m6xRuviGi11nWg&s=10"
   },
   {
     id: 17,
@@ -219,7 +219,7 @@ const products = [
     badge: "Bestseller",
     rating: 4.9,
     description: "A bright royal-blue frock designed to stand out at birthdays and family celebrations.",
-    image: "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1osQbS7p9ooDwRIas0aCK_PeX_Vvq_pfVCNCmivLUvA&s=10"
   },
   {
     id: 18,
@@ -232,7 +232,7 @@ const products = [
     badge: "Sunny Style",
     rating: 4.7,
     description: "A cheerful yellow frock for playtime, sunny walks, and relaxed weekends.",
-    image: "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80DJgU4u-x9G1x11w3CC0uUET38VTubbJ2GJAIoA_Fw&s=10"
   },
   {
     id: 19,
@@ -245,7 +245,7 @@ const products = [
     badge: "Premium",
     rating: 5.0,
     description: "A graceful blush occasion dress for weddings, Eid gatherings, and family portraits.",
-    image: "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHTuZpTD6P47Ydf3FGQ7lfIq7_ciUCeZEFcv-O12O_2A&s=10"
   },
   {
     id: 20,
@@ -258,7 +258,7 @@ const products = [
     badge: "New Arrival",
     rating: 4.8,
     description: "A lilac party frock with a playful, twirl-friendly silhouette for little dreamers.",
-    image: "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz4Y09x3Rh5FgSRdYRj_Twyy19C8t49fKIJLANXQrwEw&s=10"
   },
   {
     id: 21,
@@ -271,7 +271,7 @@ const products = [
     badge: "Elegant Pick",
     rating: 4.9,
     description: "A lovely ivory dress with a delicate look for wedding ceremonies and formal occasions.",
-    image: "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATM0CM1Z9TL6VzFOvYlTFRHZQxHushYqXh_nTquJotg&s"
   },
   {
     id: 22,
@@ -284,7 +284,7 @@ const products = [
     badge: "Trending",
     rating: 4.8,
     description: "A vibrant coral dress for birthday parties, cake-cutting, and picture-perfect moments.",
-    image: "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-d7mNH8goXoPXsgTylzG2dbtkkZVGF_uD_-cDL5IhGg&s=10"
   },
   {
     id: 23,
@@ -297,7 +297,7 @@ const products = [
     badge: "Everyday Favorite",
     rating: 4.6,
     description: "A breezy blue frock that keeps little ones comfortable through busy days.",
-    image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCasab3VNdPrqNYMSC5x3I63NYYeE_VmrIspbxUBczUA&s=10"
   },
   {
     id: 24,
@@ -310,7 +310,7 @@ const products = [
     badge: "Premium",
     rating: 5.0,
     description: "A rich ruby occasion gown for weddings, festive dinners, and cherished family events.",
-    image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=700&q=80&sat=-10"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpr-dpZ2gsZ4Get1Q4mDxoOG51NPTT1LNg_smhhh9Kg&s"
   },
   {
     id: 25,
@@ -323,7 +323,7 @@ const products = [
     badge: "Sale",
     rating: 4.7,
     description: "A lovely candy-pink frock for party days, playdates, and everything in between.",
-    image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=700&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtT8Fmsw_NMtNMQdhkWwOvOjU5SovWhsjNx7B5edlgug&s=10"
   },
   {
     id: 26,
@@ -336,7 +336,7 @@ const products = [
     badge: "New Arrival",
     rating: 4.8,
     description: "A sweet winter-white party dress for family get-togethers and festive celebrations.",
-    image: "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&w=700&q=80&sat=-25"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyjhooKu96pv10ZgAwiU-GDbaaS8dqGrQTbnhCgi07Bw&s=10"
   }
 ];
 
