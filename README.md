@@ -47,29 +47,7 @@ The project is developed using React's component-based architecture, making the 
 - Modern e-commerce layout.
 - Responsive design approach.
 
-## 📂 Project Structure
-
-```text
-React-Frok-E-Commerce/
-│
-├── public/
-│
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── data/
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-```
-
-*Note: The structure above represents the suggested organization; adjust folder names to match the actual repository.*
-
+ 
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally.
