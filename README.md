@@ -47,43 +47,6 @@ The project is developed using React's component-based architecture, making the 
 - Modern e-commerce layout.
 - Responsive design approach.
 
- 
-## 🚀 Getting Started
-
-Follow these steps to run the project locally.
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/UfaqFatima786/React-Frok-E-Commerce.git
-```
-
-### 2. Navigate to Project Directory
-
-```bash
-cd React-Frok-E-Commerce
-```
-
-### 3. Install Dependencies
-
-```bash
-npm install
-```
-
-### 4. Start Development Server
-
-```bash
-npm run dev
-```
-
-### 5. Open in Browser
-
-Visit the local URL provided by Vite, usually:
-
-```text
-http://localhost:5173
-```
-
 ## 🌐 Live Preview
 
 Experience the Little Princess boutique website:
