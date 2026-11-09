@@ -123,12 +123,11 @@ Experience the Little Princess boutique website:
 
 ## 👩‍💻 Developer
 
-**Syeda Ufaq Fatima**
+**Ufaq Fatima**
 
 Frontend Web Developer | React.js Developer | UI Enthusiast
 
 - 🐙 GitHub: [@UfaqFatima786](https://github.com/UfaqFatima786)
-- 
 ---
 
 ⭐ If you like this project, don't forget to give this repository a star!
