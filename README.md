@@ -106,15 +106,6 @@ Visit the local URL provided by Vite, usually:
 http://localhost:5173
 ```
 
-## 📦 Available Scripts
-
-| Command | Description |
-|---|---|
-| `npm run dev` | Starts the development server |
-| `npm run build` | Creates a production build |
-| `npm run preview` | Previews the production build |
-| `npm run lint` | Checks code using ESLint |
-
 ## 🌐 Live Preview
 
 Experience the Little Princess boutique website:
