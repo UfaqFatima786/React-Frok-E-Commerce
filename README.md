@@ -8,7 +8,7 @@ A beautiful, modern, and responsive **Girls' Frock E-Commerce Website** built wi
 
 ## ✨ About The Project
 
-**Little Princess** is a frontend e-commerce project designed for a girls' clothing boutique. The website focuses on creating a premium and delightful online shopping experience where customers can explore stylish frocks through an elegant and visually appealing interface.
+**Little Princess Website** is a frontend e-commerce project designed for a girls' clothing boutique. The website focuses on creating a premium and delightful online shopping experience where customers can explore stylish frocks through an elegant and visually appealing interface.
 
 The project is developed using React's component-based architecture, making the application organized, reusable, and easy to maintain.
 
